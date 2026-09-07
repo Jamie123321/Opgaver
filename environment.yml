@@ -1,0 +1,14 @@
+name: math2
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - numpy
+  - scipy
+  - sympy
+  - matplotlib
+  - pandas
+  - jupyter
+  - notebook
+  - ipykernel
+  - ipywidgets
